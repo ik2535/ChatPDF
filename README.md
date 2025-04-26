@@ -6,7 +6,7 @@ A PDF Q&A application built with AWS Bedrock, LangChain, and FAISS. It provides:
 - **doc-qa-interface**: Download FAISS index, convert queries to embeddings, retrieve relevant chunks, and generate answers using Anthropic Claude 2.1.
 
 ## System Architecture
-![System Architecture](doc qa-system design diagram.png)
+![System Architecture](system-architecture.png)
 
 
 ## Prerequisites
