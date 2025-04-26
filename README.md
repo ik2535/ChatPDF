@@ -1,4 +1,4 @@
-# Document-QA System (RAG)
+# ChatPDF: Pdf Q&A using RAG
 
 ## Overview
 A PDF Q&A application built with AWS Bedrock, LangChain, and FAISS. It provides:
