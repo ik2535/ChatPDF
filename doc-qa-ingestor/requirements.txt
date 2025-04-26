@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain
+boto3
+faiss-cpu
+numpy
